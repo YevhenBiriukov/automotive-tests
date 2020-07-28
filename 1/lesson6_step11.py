@@ -2,7 +2,7 @@ from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
 
-
+# two ways - missed last name input
 
 try: 
     link = "http://suninjuly.github.io/registration2.html"
