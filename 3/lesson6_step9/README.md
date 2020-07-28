@@ -1,2 +1,0 @@
-# selenium_course_3_6_9
-3_6_9_solution
